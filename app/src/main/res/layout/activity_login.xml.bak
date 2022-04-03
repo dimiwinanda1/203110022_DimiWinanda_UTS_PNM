@@ -119,9 +119,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"/>
 
-	
-	<!-- TextView yang menampikan text berupa informasi jika belum memiliki akun maka harus masuk dengan cara Register terlebih dahulu -->
-
     <TextView
         android:id="@+id/tv_havent_account"
         style="@style/SubTitle"

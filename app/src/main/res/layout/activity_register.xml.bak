@@ -1,6 +1,5 @@
 <!--  <?xml version="1.0" memberi arti bahwa dokumen ini dibuat dengan aturan XML versi 1.0.  -->
 <!--  Encoding menunjukkan bahwa file XML ini ditulis dengan kode UTF-8.  -->
-<!--  Dokumen ini dibuat untuk mengatur tampilan dari halaman Register  -->
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -32,7 +31,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 		
-	<!--  TextView yang merupakan salah satu dari bagian view yang berguna untuk menampilkan text di layar atau halaman  -->
+	<!--  TextView yang merupakan salah satu dari bagian view berguna untuk menampilkan text di layar atau halaman  -->
 	<!--  TextView dibawah ini berfungsi untuk menampilkan text subjudul pada halaman register -->
     <TextView
         android:id="@+id/tv_register_sub_title"
