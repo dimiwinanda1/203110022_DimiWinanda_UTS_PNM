@@ -1,5 +1,5 @@
 package com.dimiwinanda.utsdimi
-//untuk mengatasi error pada DisplayMessageActivity kita bisa menggunakan sendMessage
+//untuk mengatasi error pada DisplayMessageActivity kita bisa menggunakan sendMessage.
 //pada sendMessage konstruktor intent kita menggunakan 2 parameter, yaitu Context dan Class
 //terdapat import android.content.Intent dan import android.os.Bundle; yang berfungsi untuk 
 //membaca Data dengan  tipe berbentuk String, angka (integer, float, double), ArrayList, boolean, array, character, dan lain sebagainya, 
